@@ -30,14 +30,14 @@ Complete CRM and automation setup for a pharmacy consulting business.
 - Consultation booking calendar integration
 
 ![TrueRx Landing Page](TrueRx%20Landing%20Page%20by%20Morakinyo%20Hezekiah.png)
-![TrueRx Consult Workflow](TrueRx%20consult%20workflow%20by%20Morakinyo%20Hezeki....png)
-![TrueRx Lead Cap Follow Up](TrueRx%20lead%20cap%20%26%20follow%20up%20canvas%20-%20By%20Mora....png)
+![TrueRx Consult Workflow](TrueRx%20consult%20workflow%20by%20Morakinyo%20Hezekiah.png)
+![TrueRx Lead Cap Follow Up](TrueRx%20lead%20cap%20%26%20follow%20up%20canvas%20-%20By%20Morakinyo%20Hezekiah.png)
 ![Opportunity Page](opportunity%20page%20-truerx.png)
 ![TrueRx Canvas 1](truerx%20canvas%20by%20Morakinyo%20Hezekiah.png)
 ![TrueRx Canvas 2](truerx%20canvas%20by%20Morakinyo%20hezekiah1.png)
 ![TrueRx Funnel](truerxfunnel.png)
-![TrueRx Workflow Canvas](truerx%20workflow%20canvas%20by%20Morakinyo%20by%20heze....png)
-![Whole Canvas](whole%20canvas%20by%20Morakinyo%20hezekiah.png)
+![TrueRx Workflow Canvas](truerx%20workflow%20canvas%20by%20Morakinyo%20by%20hezekiah.png)
+![Whole Canvas](whole%20canvas%20by%20Morakinyo%20Hezekiah.png)
 
 ---
 
