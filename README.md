@@ -13,7 +13,10 @@ to revive cold leads and book new appointments.
 - Conditional logic based on lead response
 - Delivered as a GHL snapshot for easy import
 
-![DBR Workflow](assets/dbr-workflow.png)
+![DBR Workflow](3days%20data%20-%20alex.png)
+![DBR Workflow 2](3days%20data%20-%20alex2.png)
+![DBR Workflow 3](3days%20data%20-%20alex3.png)
+![DBR Snapshot](3DR%20SNAPSHOT%20-%20ALEX.png)
 
 ---
 
